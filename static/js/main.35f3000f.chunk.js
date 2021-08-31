@@ -1,2 +1,0 @@
-(this["webpackJsonpr3f-ludo-model"]=this["webpackJsonpr3f-ludo-model"]||[]).push([[0],{4:function(e,o,t){"use strict";t.r(o);var n=t(0),d=t.n(n),r=t(3),c=t.n(r),l=(t(9),t(2));c.a.render(Object(l.jsx)(d.a.StrictMode,{children:Object(l.jsx)("div",{children:"hello world"})}),document.getElementById("root"))},9:function(e,o,t){}},[[4,1,2]]]);
-//# sourceMappingURL=main.35f3000f.chunk.js.map
