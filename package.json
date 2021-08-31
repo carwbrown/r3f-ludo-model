@@ -1,7 +1,7 @@
 {
   "name": "r3f-ludo-model",
   "version": "0.1.0",
-  "homepage": "https://carwbrown.github.io/araknoid",
+  "homepage": "https://carwbrown.github.io/r3f-ludo-model",
   "private": true,
   "dependencies": {
     "@react-spring/three": "^9.2.4",
