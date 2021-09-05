@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/r3f-ludo-model/static/css/main.994470a6.chunk.css",
-    "main.js": "/r3f-ludo-model/static/js/main.2d4db879.chunk.js",
-    "main.js.map": "/r3f-ludo-model/static/js/main.2d4db879.chunk.js.map",
+    "main.css": "/r3f-ludo-model/static/css/main.567b5087.chunk.css",
+    "main.js": "/r3f-ludo-model/static/js/main.b3eaf7e6.chunk.js",
+    "main.js.map": "/r3f-ludo-model/static/js/main.b3eaf7e6.chunk.js.map",
     "runtime-main.js": "/r3f-ludo-model/static/js/runtime-main.ba1abc02.js",
     "runtime-main.js.map": "/r3f-ludo-model/static/js/runtime-main.ba1abc02.js.map",
     "static/js/2.1abced65.chunk.js": "/r3f-ludo-model/static/js/2.1abced65.chunk.js",
     "static/js/2.1abced65.chunk.js.map": "/r3f-ludo-model/static/js/2.1abced65.chunk.js.map",
     "index.html": "/r3f-ludo-model/index.html",
-    "static/css/main.994470a6.chunk.css.map": "/r3f-ludo-model/static/css/main.994470a6.chunk.css.map",
+    "static/css/main.567b5087.chunk.css.map": "/r3f-ludo-model/static/css/main.567b5087.chunk.css.map",
     "static/js/2.1abced65.chunk.js.LICENSE.txt": "/r3f-ludo-model/static/js/2.1abced65.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ba1abc02.js",
     "static/js/2.1abced65.chunk.js",
-    "static/css/main.994470a6.chunk.css",
-    "static/js/main.2d4db879.chunk.js"
+    "static/css/main.567b5087.chunk.css",
+    "static/js/main.b3eaf7e6.chunk.js"
   ]
 }
