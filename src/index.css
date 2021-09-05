@@ -9,9 +9,11 @@ body {
   display: block;
 }
 
-.content {
+.score {
   font-size: 10rem;
-  position: absolute;
-  left: 84rem;
-  top: -50rem;
+  position: fixed;
+  bottom: 30rem;
+  left: 45rem;
+  z-index: 999;
+  float: right;
 }

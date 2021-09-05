@@ -126,6 +126,9 @@ function App() {
 
   return (
     <Canvas camera={{ position: [0, 0, 20], fov: 50 }}>
+      <Html prepend distanceFactor={10}>
+        <div className="score">{score}</div>
+      </Html>
       <ambientLight intensity={0.3} />
       <pointLight position={[10, 10, 5]} />
       <pointLight position={[-10, -10, -5]} />
@@ -144,9 +147,6 @@ function App() {
           position={[-2, 3, 0]}
           setScore={incrementScore}
         />
-        <Html prepend distanceFactor={10}>
-          <div className="content">{score}</div>
-        </Html>
       </Physics>
     </Canvas>
   );
